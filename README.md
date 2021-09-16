@@ -24,9 +24,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="https://farmer-crop-predictor.herokuapp.com/">project link</a>
+      
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="https://farmer-crop-predictor.herokuapp.com/">project link</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
