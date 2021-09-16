@@ -24,6 +24,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="https://farmer-crop-predictor.herokuapp.com/">project link</a>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
@@ -51,10 +52,7 @@
 ## About The Project
 
 ![output](https://github.com/animeesh/crop-field-prediction/blob/main/crop%20prediction.PNG)
- 
-
 <img src="https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-29-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="350" height="850">
-
 <img src="https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-24-08_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="350" height="850">
 
 
@@ -65,7 +63,7 @@ Here's why:
 * This  app can help farmer getting the high value crops followed by good revenue.
 * farmers can now plan according the the atmosphere and environment of the farm
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
