@@ -69,10 +69,10 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [cropstramlit.py](https://github.com/animeesh/crop-field-prediction/blob/main/cropstramlit.py)web api
-* [data1.csv](https://github.com/animeesh/crop-field-prediction/blob/main/data1.csv)data took directly from indian farms
-* [crop2.pkl](https://github.com/animeesh/crop-field-prediction/blob/main/crop2.pkl) model extract file
-* [requirements.txt](https://github.com/animeesh/crop-field-prediction/blob/main/requirements.txt) few packages to be install 
+* [cropstramlit.py](https://github.com/animeesh/crop-field-prediction/blob/main/cropstramlit.py) - web api
+* [data1.csv](https://github.com/animeesh/crop-field-prediction/blob/main/data1.csv) - data took directly from indian farms
+* [crop2.pkl](https://github.com/animeesh/crop-field-prediction/blob/main/crop2.pkl) - model extract file
+* [requirements.txt](https://github.com/animeesh/crop-field-prediction/blob/main/requirements.txt) - few packages to be install 
 
 
 <!-- GETTING STARTED -->
