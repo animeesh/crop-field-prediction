@@ -53,9 +53,9 @@
 ![output](https://github.com/animeesh/crop-field-prediction/blob/main/crop%20prediction.PNG)
  
  mobile view
- 
-!<img src="https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-24-08_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="325" height="850">
 !<img src="https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-29-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="325" height="850">
+
+!<img src="https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-24-08_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" width="325" height="850">
 
 
  I think this is it.
