@@ -16,28 +16,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
 
 
 
@@ -72,9 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/crop%20prediction.PNG)
-[![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-24-08_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
-[![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-29-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/crop%20prediction.PNG)
+![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-24-08_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![output][product-screenshot]](https://github.com/animeesh/crop-field-prediction/blob/main/Screenshot_2021-09-16-06-17-29-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 
  I think this is it.
@@ -150,7 +128,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](www.linkedin.com/in/animeshnayak)
+Your Name - [@LinkedIn](www.linkedin.com/in/animeshnayak)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/animeesh/crop-field-prediction)
 
